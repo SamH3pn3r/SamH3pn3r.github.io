@@ -4,4 +4,4 @@ title: First Week at Lambda
 subtitle: My First Medium Post
 ---
 
-![Medium](/img/medium post.jpg){: .center-block :}
+![Medium]("/img/medium post.jpg"){: .center-block :}
