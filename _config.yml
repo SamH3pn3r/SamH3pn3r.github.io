@@ -21,6 +21,7 @@ description: Hi!
 # List of links in the navigation bar
 navbar-links:
   About Me: "aboutme"
+  Skills: 
   Resources:
     - Linkedin: "https://www.linkedin.com/in/samuel-hepner-7451b7133/"
     - Github: "https://github.com/SamH3pn3r"
@@ -70,9 +71,9 @@ social-network-links:
   rss: true
   email: "samuelhepner03@gmail.com"
   github: samh3pn3r
-  twitter: samuel_nest
+#  twitter: 
 #  reddit: yourname
-#  linkedin: https://www.linkedin.com/in/samuel-hepner-7451b7133/
+  linkedin: https://www.linkedin.com/in/samuel-hepner-7451b7133/
 #  xing: yourname
 #  stackoverflow: "3943160/daattali"
 #  snapchat: deanat78
@@ -88,7 +89,7 @@ social-network-links:
 share-links-active:
   twitter: true
   facebook: false
-  linkedin: false
+  linkedin: true
 
 # How to display the link to the website in the footer
 # Remove this if you don't want a link in the footer
