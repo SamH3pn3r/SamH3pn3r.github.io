@@ -20,8 +20,7 @@ description: Hello!
 
 # List of links in the navigation bar
 navbar-links:
-  About Me: "aboutme"
-  Skills: 
+  About Me: "aboutme" 
   Resources:
     - Linkedin: "https://www.linkedin.com/in/samuel-hepner-7451b7133/"
     - Github: "https://github.com/SamH3pn3r"
@@ -73,7 +72,7 @@ social-network-links:
   github: samh3pn3r
 #  twitter: 
 #  reddit: yourname
-  linkedin: samuel-hepner-7451b7133/
+  linkedin: samuel-hepner
 #  xing: yourname
 #  stackoverflow: "3943160/daattali"
 #  snapchat: deanat78
