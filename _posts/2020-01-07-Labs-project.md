@@ -1,9 +1,8 @@
 ---
 layout: post
 title: First Labs Project
-subtitle: Tagger: Smarter Email
+subtitle: Tagger - Smarter Email
 ---
-
 Here is the link to my first labs project: [Tagger](https://taggerhq.com)  
   
 Since we use the Gmail API, the sign-in is not as smooth as we would have liked.   
