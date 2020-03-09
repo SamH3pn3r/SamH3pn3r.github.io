@@ -16,6 +16,6 @@ To continue to our application, click advanced and then click "Go to taggerhq.co
 If you have 2-step verification set-up, you should get a notification on your phone or in your email where you'll need to confirm
 that you are the one signing in. After that, you should get some popups where you'll need to allow the Gmail API to have certain permissions. 
 
-If you don't have , you should get some popups where you'll need to allow the Gmail API to have certain permissions.  
+If you don't have, you should get some popups where you'll need to allow the Gmail API to have certain permissions.  
 
 Thank you for taking the time to check out the project.
