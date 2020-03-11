@@ -21,7 +21,6 @@ description: Samuel Hepner
 # List of links in the navigation bar
 navbar-links:
   About Me: "aboutme" 
-  Skills: "skills"
   Projects: "projects"
   Resources:
     - Linkedin: "https://www.linkedin.com/in/samuel-hepner-7451b7133/"
