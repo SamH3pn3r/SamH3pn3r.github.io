@@ -3,7 +3,7 @@ layout: page
 title: About me
 subtitle: A little bit about myself
 ---
-
+# Hello!    
 My name is Samuel Hepner.       
 I graduated from the University of Washington in June 2019 and I've spent the past 9 months at Lambda School. 
 ## What is Lambda School for Data Science?   
