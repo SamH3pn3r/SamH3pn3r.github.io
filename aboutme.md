@@ -29,6 +29,6 @@ You can read all about him [here](https://superheroes.fandom.com/wiki/Deadpool)
 
 My favorite video game: Halo, Bioshock, and Doom(2016)    
 ## What is Halo, Bioshock, and/or Doom(2016)?   
-All three are First Person Shooters(FPS) with incredible campaigns, backgrounds/worlds, and they are gorey.    
+All three are First Person Shooters(FPS) with incredible campaigns, backgrounds/worlds, and they are gory.    
 I was first introduced to Halo when I was 5 years old, I was introduced to Bioshock when I was 13/14 years old, and I was introduced to     Doom when I was 17 years old.    
 If you are interested in video games and you haven't heard about them (I don't know how), you can read about them here: [Halo](https://en.wikipedia.org/wiki/Halo_(franchise)), [Bioshock](https://en.wikipedia.org/wiki/BioShock), and [Doom](https://en.wikipedia.org/wiki/Doom_(franchise))    
