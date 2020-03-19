@@ -4,6 +4,7 @@ title: First Labs Project
 subtitle: Tagger - Smarter Email
 ---
 Here is the link to my first labs project: [Tagger](https://taggerhq.com)  
+and here is a video showing how it works and what we did [video](https://drive.google.com/file/d/1hWgtgHQWiy11NycB7RYzcqBwC4UybmxO/view)
   
 Since we use the Gmail API, the sign-in is not as smooth as we would have liked.   
 You'll get a pop-up that exclaims, "This app isn't verified."   
