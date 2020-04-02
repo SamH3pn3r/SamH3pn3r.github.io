@@ -4,7 +4,7 @@ title: Projects
 subtitle: Here are all the projects that I've been a part of.
 ---
 
-Tagger: Smarter Email ([link](https://drive.google.com/file/d/1hWgtgHQWiy11NycB7RYzcqBwC4UybmxO/view))  
+Tagger: Smarter Email ([link](https://tagger-fe-revert.now.sh/))  
 github: [repo](https://github.com/SamH3pn3r/tagger-ds)  
 
 CS Build Week 2: (No web app)
