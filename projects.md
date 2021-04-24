@@ -4,7 +4,7 @@ title: Projects
 subtitle: Each project has an accompanying Github Repository and sometimes the link to the application.
 ---
 
-Tagger: Smarter Email ([link](https://tagger-fe-revert.now.sh/))  
+Tagger: Smarter Email 
 github: [repo](https://github.com/SamH3pn3r/tagger-ds)  
 
 CS Build Week 2:  
