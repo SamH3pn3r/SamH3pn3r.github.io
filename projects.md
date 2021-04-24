@@ -13,7 +13,7 @@ github: [repo](https://github.com/Computer-Science-Build-Week-2/CS-Build-Week-2/
 CS Build Week 1 ([link](https://flask-rpg.com/))   
 github: [repo](https://github.com/SamH3pn3r/CS-Build-Week-1-Flask)  
 
-Reddit Ranker ([link](https://post-here-frontend-n33nsapg6.now.sh/))  
+Reddit Ranker  
 github: [repo](https://github.com/Build-Week-Post-Here/DS) 
 
 NBA Career Longevity Predictor  
