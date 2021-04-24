@@ -9,7 +9,7 @@ github: [repo](https://github.com/SamH3pn3r/tagger-ds)
 
 CS Build Week 2:  
 github: [repo](https://github.com/Computer-Science-Build-Week-2/CS-Build-Week-2/tree/testing) 
-# ([link](https://flask-rpg.com/)) 
+
 CS Build Week 1   
 github: [repo](https://github.com/SamH3pn3r/CS-Build-Week-1-Flask)  
 
@@ -18,7 +18,7 @@ github: [repo](https://github.com/Build-Week-Post-Here/DS)
 
 NBA Career Longevity Predictor  
 github: [repo](https://github.com/samuelhepner/DS/tree/patch-1)  
-# ([link](https://twitoff-samh3pn3r.herokuapp.com/))
+
 Twitoff   
 github: [repo](https://github.com/SamH3pn3r/TwitOff)  
 
